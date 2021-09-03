@@ -28,14 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](.images/screenshot.png)
+![](./images/screenshot.png)
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/vishalbrdr/crowdfunding-product-page](https://github.com/vishalbrdr/crowdfunding-product-page)
+- Live Site URL: [https://vishalbrdr.github.io/crowdfunding-product-page/](https://vishalbrdr.github.io/crowdfunding-product-page/)
 
 ## My process
 
